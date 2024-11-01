@@ -2,7 +2,7 @@
 # Markov Model Based Coverage Testing of Deep Learning Software Systems
 
 ## Overview
-This project implements Markov model-based coverage testing for deep learning software systems using datasets from PyTorch's `torchvision.datasets`, including MNIST, SVHN, and CIFAR-10.
+This project implements Markov model-based coverage testing for deep learning software systems. The process of coverage testing is formalized and quantified by constructing Markov models based on critical neurons extracted using Layer-wise Relevance Propagation in the structure of DNNs. The difference in the transition matrix of Markov chains between training and testing data is measured by KL divergence, and it is developed as a coverage criterion. 
 
 ## Table of Contents
 - [Data Preparation](#data-preparation)
@@ -11,12 +11,12 @@ This project implements Markov model-based coverage testing for deep learning so
 - [Usage](#usage)
 
 ## Data Preparation
-The following datasets are utilized in this project:
+In this project, we utilize datasets from PyTorch's `torchvision.datasets`, including:
 - **MNIST**: Handwritten digits dataset.
 - **SVHN**: Street View House Numbers dataset.
 - **CIFAR-10**: A dataset containing 10 classes of color images.
 
-To install the required dependencies, run:
+To Load the Dataset, run:
 ```bash
 pip install torch torchvision
 ```
