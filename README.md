@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ## Usage
 Follow these steps to run the scripts:
 
-1. **Extract Key Neurons**:
+1. **Extract Critical Neurons**:
    ```bash
    python path_LRP.py
    ```
