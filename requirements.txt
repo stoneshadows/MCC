@@ -1,0 +1,102 @@
+absl-py==2.0.0
+astunparse==1.6.3
+backcall==0.2.0
+cachetools==5.3.2
+certifi==2021.5.30
+charset-normalizer==2.0.12
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
+cycler==0.10.0
+Cython==0.29.37
+decorator==5.0.9
+filelock==3.12.2
+flatbuffers==23.5.26
+fsspec==2023.1.0
+gast==0.4.0
+google-auth==2.23.4
+google-auth-oauthlib==0.4.6
+google-pasta==0.2.0
+grpcio==1.59.3
+h5py==3.8.0
+hdbscan==0.8.33
+huggingface-hub==0.16.4
+idna==3.4
+imageio @ file:///home/conda/feedstock_root/build_artifacts/imageio_1594044661732/work
+importlib-metadata==5.0.0
+ipython==7.26.0
+ipython-genutils==0.2.0
+jedi==0.18.0
+Jinja2==3.1.2
+joblib==1.0.1
+jsonpatch==1.33
+jsonpointer==2.4
+keras==2.11.0
+kiwisolver @ file:///D:/bld/kiwisolver_1610099949969/work
+libclang==16.0.6
+llvmlite==0.39.1
+Markdown==3.4.4
+MarkupSafe==2.1.1
+matplotlib @ file:///D:/bld/matplotlib-suite_1620506183901/work
+matplotlib-inline==0.1.2
+networkx==2.6.3
+numba==0.56.4
+numpy @ file:///D:/bld/numpy_1622014782425/work
+oauthlib==3.2.2
+olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
+opencv-python==4.5.3.56
+opt-einsum==3.3.0
+packaging==23.2
+pandas @ file:///D:/bld/pandas_1627224175793/work
+parso==0.8.2
+pickleshare==0.7.5
+Pillow @ file:///C:/ci/pillow_1617386319301/work
+prompt-toolkit==3.0.19
+protobuf==3.19.6
+pyasn1==0.5.0
+pyasn1-modules==0.3.0
+Pygments==2.9.0
+pynndescent==0.5.12
+pyparsing==2.4.7
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1612179539967/work
+PyYAML==5.4.1
+regex==2023.10.3
+requests==2.27.0
+requests-oauthlib==1.3.1
+rsa==4.9
+safetensors==0.4.0
+scikit-learn==1.0.2
+scipy @ file:///C:/bld/scipy_1624825048748/work
+seaborn==0.11.1
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+tensorboard==2.11.2
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorflow==2.11.0
+tensorflow-estimator==2.11.0
+tensorflow-intel==2.11.0
+tensorflow-io-gcs-filesystem==0.31.0
+termcolor==2.3.0
+threadpoolctl==3.1.0
+tokenizers==0.13.3
+torch==1.8.1
+torch-geometric==2.1.0.post1
+torch-scatter @ file:///C:/Users/shiying/anaconda3/envs/torch-gpu/Lib/site-packages/torch_scatter-2.0.6-cp37-cp37m-win_amd64.whl
+torch-sparse @ file:///C:/Users/shiying/torch_sparse-0.6.10-cp37-cp37m-win_amd64.whl
+torchaudio==0.8.1
+torchsummary==1.5.1
+torchvision==0.9.1
+tornado @ file:///D:/bld/tornado_1610094878337/work
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1627689047698/work
+traitlets==5.0.5
+transformers==4.30.2
+typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1602702424206/work
+umap==0.1.1
+umap-learn==0.5.1
+urllib3==1.25.8
+visdom==0.2.4
+wcwidth==0.2.5
+websocket-client==1.6.1
+Werkzeug==2.2.3
+wincertstore==0.2
+wrapt==1.16.0
+zipp==3.10.0
